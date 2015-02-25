@@ -1,1 +1,11 @@
-こんにちは、日本！！
+今日は、日本。
+
+そしてさようなら。
+と思いきや、また、こんにちは。
+
+お疲れ様です。
+
+int main( int c, char *argv[], char *envp[] )
+{
+  return EXIT_SUCCESS;
+}
